@@ -1,0 +1,14 @@
+/Users/gost/Documents/Education_GB/c_sharp/lek1/example001_helloConsole/bin/Debug/net7.0/example001_helloConsole
+/Users/gost/Documents/Education_GB/c_sharp/lek1/example001_helloConsole/bin/Debug/net7.0/example001_helloConsole.deps.json
+/Users/gost/Documents/Education_GB/c_sharp/lek1/example001_helloConsole/bin/Debug/net7.0/example001_helloConsole.runtimeconfig.json
+/Users/gost/Documents/Education_GB/c_sharp/lek1/example001_helloConsole/bin/Debug/net7.0/example001_helloConsole.dll
+/Users/gost/Documents/Education_GB/c_sharp/lek1/example001_helloConsole/bin/Debug/net7.0/example001_helloConsole.pdb
+/Users/gost/Documents/Education_GB/c_sharp/lek1/example001_helloConsole/obj/Debug/net7.0/example001_helloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gost/Documents/Education_GB/c_sharp/lek1/example001_helloConsole/obj/Debug/net7.0/example001_helloConsole.AssemblyInfoInputs.cache
+/Users/gost/Documents/Education_GB/c_sharp/lek1/example001_helloConsole/obj/Debug/net7.0/example001_helloConsole.AssemblyInfo.cs
+/Users/gost/Documents/Education_GB/c_sharp/lek1/example001_helloConsole/obj/Debug/net7.0/example001_helloConsole.csproj.CoreCompileInputs.cache
+/Users/gost/Documents/Education_GB/c_sharp/lek1/example001_helloConsole/obj/Debug/net7.0/example001_helloConsole.dll
+/Users/gost/Documents/Education_GB/c_sharp/lek1/example001_helloConsole/obj/Debug/net7.0/refint/example001_helloConsole.dll
+/Users/gost/Documents/Education_GB/c_sharp/lek1/example001_helloConsole/obj/Debug/net7.0/example001_helloConsole.pdb
+/Users/gost/Documents/Education_GB/c_sharp/lek1/example001_helloConsole/obj/Debug/net7.0/example001_helloConsole.genruntimeconfig.cache
+/Users/gost/Documents/Education_GB/c_sharp/lek1/example001_helloConsole/obj/Debug/net7.0/ref/example001_helloConsole.dll
