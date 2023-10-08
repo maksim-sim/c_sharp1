@@ -1,5 +1,7 @@
-﻿int namberA = 5;
-int namberB = 4;
+﻿int namberA = new Random().Next(1, 10); 
+int namberB = new Random().Next(1, 10);
 int namberRes = namberA + namberB;
 
-Console.WriteLine(namberRes);
+Console.WriteLine(namberA); 
+Console.WriteLine(namberB); 
+Console.WriteLine(namberRes); 
